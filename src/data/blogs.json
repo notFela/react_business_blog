@@ -1,0 +1,107 @@
+
+[
+    {
+        "id": 1,
+        "title": "The Future of AI in Enterprise: 2026 Trends",
+        "author": "Sarah Chen",
+        "authorRole": "Tech Analyst",
+        "date": "2026-04-05",
+        "category": "Technology",
+        "readTime": "8 min read",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600",
+        "excerpt": "Artificial Intelligence continues to reshape how businesses operate. From predictive analytics to automated customer service, we explore the trends defining enterprise AI adoption this year.",
+        "content": "Full article content here...",
+        "featured": true
+    },
+    {
+        "id": 2,
+        "title": "Sustainable Business Practices: Beyond Greenwashing",
+        "author": "Michael Torres",
+        "authorRole": "Sustainability Director",
+        "date": "2026-04-03",
+        "category": "Sustainability",
+        "readTime": "6 min read",
+        "image": "https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?w=600",
+        "excerpt": "Consumers are increasingly savvy about environmental claims. Learn how leading companies are implementing genuine sustainability measures that drive both impact and profit.",
+        "content": "Full article content here...",
+        "featured": false
+    },
+    {
+        "id": 3,
+        "title": "The Remote Work Revolution: 5 Years Later",
+        "author": "Emily Watson",
+        "authorRole": "HR Strategist",
+        "date": "2026-04-01",
+        "category": "Workplace",
+        "readTime": "10 min read",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600",
+        "excerpt": "Half a decade after the global shift to remote work, we examine which strategies succeeded, which failed, and what the future of distributed teams looks like.",
+        "content": "Full article content here...",
+        "featured": true
+    },
+    {
+        "id": 4,
+        "title": "Crypto Markets: Institutional Investment Surge",
+        "author": "David Park",
+        "authorRole": "Financial Editor",
+        "date": "2026-03-28",
+        "category": "Finance",
+        "readTime": "7 min read",
+        "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600",
+        "excerpt": "Major financial institutions are increasing their cryptocurrency holdings. We analyze the implications for retail investors and the broader financial ecosystem.",
+        "content": "Full article content here...",
+        "featured": false
+    },
+    {
+        "id": 5,
+        "title": "Supply Chain Resilience in a Volatile World",
+        "author": "Lisa Johnson",
+        "authorRole": "Operations Expert",
+        "date": "2026-03-25",
+        "category": "Operations",
+        "readTime": "9 min read",
+        "image": "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?w=600",
+        "excerpt": "Global disruptions have forced companies to rethink their supply chain strategies. Discover the new models prioritizing flexibility over efficiency.",
+        "content": "Full article content here...",
+        "featured": false
+    },
+    {
+        "id": 6,
+        "title": "Gen Z Consumers: What They Really Want",
+        "author": "Sarah Chen",
+        "authorRole": "Market Researcher",
+        "date": "2026-03-22",
+        "category": "Marketing",
+        "readTime": "5 min read",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600",
+        "excerpt": "The youngest generation of consumers has distinct preferences and values. Brands that understand these differences are capturing significant market share.",
+        "content": "Full article content here...",
+        "featured": false
+    },
+    {
+        "id": 7,
+        "title": "Healthcare Innovation: Telemedicine Expansion",
+        "author": "Dr. James Miller",
+        "authorRole": "Medical Director",
+        "date": "2026-03-20",
+        "category": "Healthcare",
+        "readTime": "8 min read",
+        "image": "https://images.unsplash.com/photo-1576091160550-2173dba999ef?w=600",
+        "excerpt": "Virtual care delivery has evolved beyond simple video consultations. Explore the cutting-edge technologies transforming patient experiences.",
+        "content": "Full article content here...",
+        "featured": false
+    },
+    {
+        "id": 8,
+        "title": "ESG Reporting: New Standards for Transparency",
+        "author": "Michael Torres",
+        "authorRole": "Compliance Officer",
+        "date": "2026-03-18",
+        "category": "Governance",
+        "readTime": "6 min read",
+        "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=600",
+        "excerpt": "New regulatory requirements are changing how companies report environmental and social impact. Stay ahead of the compliance curve.",
+        "content": "Full article content here...",
+        "featured": false
+    }
+]
