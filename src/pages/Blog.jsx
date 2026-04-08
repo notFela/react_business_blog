@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react'
-import { BookOpen } from 'lucide-react'
+import { FileX } from 'lucide-react'
 import { BeatLoader } from 'react-spinners'
 import BlogCard from '../components/BlogCard'
 import SearchBar from '../components/SearchBar'
@@ -35,7 +35,7 @@ export default function Blog() {
             <section className="bg-white border-b border-gray-100 py-12">
                 <div className="max-w-6xl mx-auto px-6">
                     <div className="flex items-center gap-2 text-blue-600 text-xs font-bold uppercase tracking-widest mb-3">
-                        <BookOpen className="w-4 h-4" /> Business Insights
+                        <FileX className="w-4 h-4" /> Business Insights
                     </div>
                     <h1 className="text-4xl font-extrabold text-gray-900 mb-3">Latest Articles &amp; Analysis</h1>
                     <p className="text-gray-500 max-w-lg text-sm leading-relaxed">
@@ -85,8 +85,8 @@ export default function Blog() {
                     </div>
                 ) : filtered.length === 0 ? (
                     <div className="text-center py-20 text-gray-400">
-                        <BookOpen className="w-12 h-12 mx-auto mb-4 opacity-30" />
-                        <p className="text-lg font-semibold">No articles found</p>
+                        <FileX className="w-12 h-12 mx-auto mb-4 opacity-30" />
+                        <p className="text-lg font-semibold">No blogs found</p>
                         <p className="text-sm mt-1">Try adjusting your search or filters</p>
                     </div>
                 ) : (
